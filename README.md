@@ -12,6 +12,7 @@ The repo won't include the custom data as it is not intended for public access, 
 - Optimized for low operation cost
 
 ## Architecture
+![Query (2)](https://github.com/user-attachments/assets/1aeaee8f-349c-48e4-aac0-56db2b520905)
 
 # Azure Services Used
 - Azure subscription 
@@ -19,4 +20,4 @@ The repo won't include the custom data as it is not intended for public access, 
 - Azure OpenAI Serviecs
 - Azure App Services
 
-:suspect:
+:shipit:
