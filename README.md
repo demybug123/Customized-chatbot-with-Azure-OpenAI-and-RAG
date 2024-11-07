@@ -6,16 +6,17 @@ The indexing pipeline and backend is written in Python. It uses Azure OpenAI Ser
 The repo won't include the custom data as it is not intended for public access, although there will be reference to other repos that contain sample data. The indexing pipeline is designed around PDFs documents written in Vietnamese.
 
 # Features
-Chat (multi-turn) and Q&A (single turn) interfaces
-Renders citations and thought process for each answer
-Integrates Azure AI Search for indexing and retrieval of documents
-Optimized for low operation cost
+- Chat (multi-turn) and Q&A (single turn) interfaces
+- Renders citations and thought process for each answer
+- Integrates Azure AI Search for indexing and retrieval of documents
+- Optimized for low operation cost
 
-# Architecture
+## Architecture
 
 # Azure Services Used
-Azure subscription 
-Azure AI Search Services
-Azure OpenAI Serviecs
-Azure App Services
+- Azure subscription 
+- Azure AI Search Services
+- Azure OpenAI Serviecs
+- Azure App Services
 
+:suspect:
